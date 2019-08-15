@@ -1,1 +1,1 @@
-# colored-tabs
+# Sticky Tabs
